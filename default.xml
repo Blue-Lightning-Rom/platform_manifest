@@ -374,7 +374,6 @@
   <project path="tools/motodev" name="platform/tools/motodev" />
 
   <project path="vendor/bluelightning" name="vendor_bluelightning" remote="bluelightning" revision="jb-mr1" />
-  <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr1" />
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="aokp" revision="jb-mr1" />
   
 
