@@ -20,7 +20,7 @@
            fetch="https://github.com/Blue-Lightning-Rom/" />
 
   <remote  name="RootBox"
-           fetch="https://github.com/RootBox" />
+           fetch="https://github.com/Root-Box" />
 
   <remote  name="omapzoom"
            fetch="git://git.omapzoom.org/"
